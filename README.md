@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Back-End with Python using FastAPI
+- 🔭 I’m currently working on Back-End with Python using Django Rest Framework
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me: johncarlosilver@gmail.com
 
