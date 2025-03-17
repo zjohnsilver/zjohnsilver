@@ -2,8 +2,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as a Back-End developer with Python using FastAPI
-- 🌱 I’m currently learning Django Rest Framework
+- 🔭 I’m currently working as a Back-End developer with Python and Javascript
+- 🌱 I’m currently starting learning React
 - 📫 How to reach me: johncarlosilver@gmail.com
 
 <div align="center">
