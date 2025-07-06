@@ -11,6 +11,10 @@ I'm a Python Software Engineer with 6+ years of experience, specializing in back
 
 ## 🚀 Highlight Project
 
+### [japanese-quiz](https://github.com/zjohnsilver/japanese-quiz)  
+> 🧠 Practice and master Japanese with interactive quizzes!  
+> This app helps you reinforce your Japanese vocabulary, grammar, and kana through smartly categorized quizzes — great for both beginners and intermediate learners looking to build strong foundations and have fun doing it.
+
 ### [expense-sync-to-notion](https://github.com/zjohnsilver/expense-sync-to-notion)
 > Easily sync your expense data to Notion!  
 > This project automates the integration between your financial data sources and Notion, making it simple to track and visualize your expenses in your favorite productivity tool.
