@@ -1,6 +1,6 @@
 # Hi, I'm zjohnsilver 👋
 
-I'm a Python Software Engineer with 6+ years of experience, specializing in backend development. My main tools are **FastAPI** and **PostgreSQL**, and I'm passionate about building robust, scalable systems.
+I'm a Python Software Engineer with 6+ years of experience, specializing in backend development. My most experience is with **FastAPI** and **PostgreSQL**, and I'm passionate about building robust, scalable systems.
 
 ## 🛠️ Tech Stack
 
